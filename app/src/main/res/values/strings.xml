@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">nameday</string>
+    <string name="widget_label">Dnešné meniny</string>
+    <string name="widget_description">Kto má dnes meniny</string>
+    <string name="widget_title">Dnes má meniny</string>
+    <string name="widget_title_holiday">Dnes je sviatok</string>
+    <string name="widget_tomorrow">Zajtra: %1$s</string>
+</resources>
